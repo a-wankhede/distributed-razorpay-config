@@ -6,7 +6,7 @@ spring:
     url: jdbc:postgresql://localhost:5432/razorpay-vault-db
 
 vault:
-  master-key: NqcfbJG1zkOfBsNF/wPmlLA7aaOvh9RCHTYYgY/9A2Q=
+  master-key: gjlxVPB5I4XcUoFKc0HDwQlXHpA2b6vrBcuK1yQavDk=
 
 resilience4j:
   thread-pool-bulkhead:
