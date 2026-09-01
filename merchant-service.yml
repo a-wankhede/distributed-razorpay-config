@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/razorpay-merchant-db
+    url: jdbc:postgresql://localhost:5433/razorpay-merchant-db
 
 jwt:
   secret-key: a9asd7fulasjdfaklsdfu98q3uhjdiosh897as9d8f7ua9osufdjilasdjf
